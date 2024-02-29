@@ -15,4 +15,4 @@ FHIREST (pronounced as “fire est”) has proven itself as a stable and reliabl
 - FHIREST is built using microservices architecture.
 - FHIREST is open-source software available on GitHub under an Apache2 license.
 
-![Architecture](../images/architecture.drawio.svg)
+![Architecture](../images/architecture.drawio)
