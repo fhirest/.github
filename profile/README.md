@@ -1,7 +1,7 @@
-FHIREST (pronounced as “fire est”) has proven itself as a stable and reliable interoperability platform. Our team has developed FHIR-based solutions, such as NHS (National Health Services), and e-Prescription and HIS solutions for different regions and countries on top of FHIREST.
+FHIREST (pronounced as “fire est”) has proven to be a stable and reliable interoperability platform. Different FHIR-based NHS (National Health Services) components for different regions and countries have been developed on top of FHIREST, such as MPI (Master Patient Index), e-prescription, Data Aggregator (Andmevaatur), Terminology server and HIS solutions.
 
 
-> A bit more than generic FHIR Server. Built to adopt your enterprise to any use-case!
+> A bit more than a generic FHIR Server. Built to adapt your enterprise to any use case!
 
 
 # Key to FHIR 
