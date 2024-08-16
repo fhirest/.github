@@ -3,6 +3,7 @@ FHIREST (pronounced as “fire est”) has proven to be a stable and reliable in
 
 > A bit more than a generic FHIR Server. Built to adapt your enterprise to any use case!
 
+Demo server: [https://fhirest.fhir.ee/fhir]
 
 # Key to FHIR 
 - FHIREST is a framework for building HL7 FHIR applications.
@@ -13,6 +14,6 @@ FHIREST (pronounced as “fire est”) has proven to be a stable and reliable in
 - FHIREST allows implementing any authentication.
 - FHIREST is horizontally and vertically scalable.
 - FHIREST is built using microservices architecture.
-- FHIREST is open-source software available on GitHub under an Apache2 license.
+- FHIREST is open-source software available on GitHub under an MIT license.
 
 ![Architecture](../images/architecture.drawio)
