@@ -17,4 +17,4 @@ Simple demo FHIR server built on top of framework: https://fhirest.fhir.ee/fhir
 
 You can access community by e-mail fhirest@tehik.ee or chat https://chat.fhir.org/#narrow/stream/454254-FHIRest
 
-![Architecture](../images/architecture.drawio)
+![Architecture](../images/architecture.drawio.png)
