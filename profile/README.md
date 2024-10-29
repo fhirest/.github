@@ -1,4 +1,4 @@
-FHIRest (pronounced as “firest”) is framework to adapt FHIR standard as easy and standardized way as possible. It has proven to be a stable and reliable. Different FHIR-based NHS (National Health Services) components for different regions and countries have been developed on top of FHIRest, such as MPI (Master Patient Index), e-prescription, Data Aggregator, Terminology server and HIS solutions.
+FHIRest (pronounced as “firest”) is framework to adapt FHIR standard as easy and standardized way as possible. It has proven to be a stable and reliable. Different FHIR-based NHS (National Health Services) components for different regions and countries have been developed on top of FHIRest, such as MPI (Master Patient Index), e-prescription, Data Aggregator, Terminology server and HIS solutions. FHIRest is planned to support wide set of [IHE FHIR related profiles](https://wiki.ihe.net/index.php/Category:FHIR) and EU eHealth Data Space defined functional profiles.
 
 Much more than a generic FHIR Server. Built to adapt your enterprise to any use case!
 
