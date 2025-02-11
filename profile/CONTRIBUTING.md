@@ -11,7 +11,7 @@ First off, thank you for taking the time to contribute! :+1: :tada:
   * [Submit a Pull Request](#submit-a-pull-request)
 * [Build from Source](#build-from-source)
 * [Source Code Style](#source-code-style)
-* [Reference Docs](#reference-docs)
+* [Documentation](#documentation)
 
 ### Code of Conduct
 
@@ -103,6 +103,6 @@ TODO:
 
 TODO: Check against Google Code Style. If it matches add here reference to Google Code Style
 
-### Source Code Style
+### Documentation
 
 Documentation is in README.md of each component. If you submit changes, please check first if documentation needs change and submit together with code changes.
