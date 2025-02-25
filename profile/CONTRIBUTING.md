@@ -62,7 +62,7 @@ to start a discussion first or have already created an issue, once a pull reques
 created, we will close the issue as superseded by the pull request, and the discussion
 about the issue will continue under the pull request.
 
-1. Always check out the `main` branch and submit pull requests against it.
+1. Always check out the `main` or `master` branch and submit pull requests against it.
 Backports to prior versions will be considered on a case-by-case basis and reflected as
 the fix version in the issue tracker.
 
