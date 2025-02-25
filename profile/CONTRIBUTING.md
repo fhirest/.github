@@ -71,9 +71,7 @@ multiple edits or corrections of the same logical change. See
 [Rewriting History section of Pro Git](https://git-scm.com/book/en/Git-Tools-Rewriting-History)
 for an overview of streamlining the commit history.
 
-1. All commits must include a _Signed-off-by_ trailer at the end of each commit message
-to indicate that the contributor agrees to the Developer Certificate of Origin.
-TODO: explain Developer Certificate of Origin
+1. By commiting to FHIRest repositories the contributor agrees to [Developer Certificate of Origin](https://developercertificate.org/)
 
 1. For commits please use [Conventional Commits](https://www.conventionalcommits.org/)
 
@@ -105,4 +103,4 @@ TODO: Check against Google Code Style. If it matches add here reference to Googl
 
 ### Documentation
 
-Documentation is in README.md of each component. If you submit changes, please check first if documentation needs change and submit together with code changes.
+Documentation is in README.md of each component. If you submit changes, please check first if documentation needs change and submit together with code changes. If you want to get general overview of the framework please look at [main project README](https://github.com/fhirest/fhirest/blob/master/README.md).
