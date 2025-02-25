@@ -9,7 +9,6 @@ First off, thank you for taking the time to contribute! :+1: :tada:
   * [Create an Issue](#create-an-issue)
   * [Issue Lifecycle](#issue-lifecycle)
   * [Submit a Pull Request](#submit-a-pull-request)
-* [Build from Source](#build-from-source)
 * [Source Code Style](#source-code-style)
 * [Documentation](#documentation)
 
@@ -92,10 +91,6 @@ Helping to review pull requests is another great way to contribute. Your feedbac
 can help to shape the implementation of new features. When reviewing pull requests,
 however, please refrain from approving or rejecting a PR unless you are a core
 committer for the FHIRest framework.
-
-### Build from Source
-
-TODO:
 
 ### Source Code Style
 
