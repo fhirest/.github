@@ -14,9 +14,8 @@ First off, thank you for taking the time to contribute! :+1: :tada:
 
 ### Code of Conduct
 
-This project is governed by the [Code of Conduct for Open Source Communities](https://www.contributor-covenant.org/).
+This project is governed by the [Code of Conduct for Open Source Communities](./CODE_OF_CONDUCT.md).  
 By participating you are expected to uphold this code.
-Please report unacceptable behavior to fhirest@tehik.ee.
 
 ### How to Contribute
 
@@ -92,9 +91,10 @@ can help to shape the implementation of new features. When reviewing pull reques
 however, please refrain from approving or rejecting a PR unless you are a core
 committer for the FHIRest framework.
 
-### Source Code Style
+### Source Code and Style
 
-TODO: Check against Google Code Style. If it matches add here reference to Google Code Style
+Please read through our overall [coding rules](./CODING_RULES.md).   
+When writing code, please apply [FHIRest code style](./codestyle).
 
 ### Documentation
 
