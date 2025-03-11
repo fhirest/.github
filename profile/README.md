@@ -15,7 +15,7 @@ Simple demo FHIR server built on top of framework: https://fhirest.fhir.ee/fhir
 - FHIRest is great for microservices architecture.
 - FHIRest is open-source software available on GitHub under an MIT license.
 
-You can access community by e-mail fhirest@tehik.ee or chat https://chat.fhir.org/#narrow/stream/454254-FHIRest
+You can access community by e-mail fhirest@tehik.ee or chat https://chat.fhir.org/#narrow/stream/454254-FHIRest  
 Main repository is [https://github.com/fhirest/fhirest](https://github.com/fhirest/fhirest). If you want to contribute, please read [contribution guidelines](../CONTRIBUTING.md).
 
 ![Architecture](../images/architecture.drawio.png)
